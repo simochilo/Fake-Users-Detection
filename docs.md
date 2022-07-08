@@ -76,3 +76,9 @@ Le feature che invece sicuramente potranno aiutare sono quelle relative all'atti
 - followers_count
 - friends_count
 - favourites_count
+
+Passo 1: due dataset di utenti facebook, aggiunta una colonna in entrambi i csv 'isFake', 1 per tutte le righe del dataset fake_users, 0 per tutte quelle del dataset users
+
+Passo 2: uniti i due file csv in un unico dataset mediante il comando "cat fake_users.csv <(tail +2 users.csv) > dataset.csv"
+
+Passo 3: mescolati i dati nel nuovo dataset completo utilizzando la funzione shuf della libreria sh di python
