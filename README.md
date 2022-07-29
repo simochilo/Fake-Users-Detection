@@ -1,5 +1,5 @@
 # Fake Users Detection
-Questa repository è relativa al progetto per il corso di Machine Learning dell'Università degli Studi di Roma Tre a.a. 2021/2022, l'obiettivo del progetto è quello di sviluppare dei modelli di Machine Learning per riconoscere ed identificare profili fake all'interno dei social network.
+Questa repository è relativa al progetto per il corso di Machine Learning dell'Università degli Studi di Roma Tre a.a. 2021/2022, l'obiettivo del progetto è quello di sviluppare e testare dei modelli di Machine Learning per riconoscere ed identificare profili fake all'interno dei social network.
 
 Progetto a cura di:
 
